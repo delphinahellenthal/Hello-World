@@ -1,8 +1,8 @@
 # Table of contents
 
-- **Project Title** (#Project-Title)
-- **Description** (#Description)
-- **How to run program** (#How-to-run-program)
+- [**Project Title**] (#Project-Title)
+- [**Description**] (#Description)
+- [**How to run program**] (#How-to-run-program)
 - **Files Used** (#Files-used)
 - **Additional Documentation** (#Additional-documentation)
 - **Versioning** (#Versioning)
